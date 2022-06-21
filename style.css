@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+#color{
+    color: aqua;
+background-color: red;
+font-size: 30px;
+}
+
+#color1{
+    color: red;
+    background-color: greenyellow;
+    font-size: 30px;
+}
+h1{ 
+    color: gold;
+}  
+b{
+    color:green;
+}
+h3{
+    color:red;
+}
+#color2{
+    color: rgb(1, 150, 250);
+}
+#color3{
+    color: palevioletred;
+}
+#color4{
+    color: red;
+}
+.copy_right_footer{
+    position:fixed;
+    color: rgb(1, 255, 234);
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
